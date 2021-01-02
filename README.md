@@ -1,6 +1,7 @@
 # Getting Started with Create React App
+## output is like this
 <h1 align="center">
-<img src="https://github.com/imbalram/imbalram/blob/master/Data_Science_1.png">
+<img src="https://github.com/imbalram/dphi_balram/blob/main/Outputscreenshot.png">
 </h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
